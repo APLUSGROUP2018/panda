@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	position: fixed;
+}
+
+#error_label {
+	color: red;
+	font-size: 0.8em;
+	font-weight: normal;
+	padding: 10px;
+}
+
+.formclass p {
+	margin-top: 70px;
+}
+
+#wrapper {
+	width: 600px;
+	background-color: #ffffff;
+	margin: 0 auto;
+	padding: 20px;
+	border: 1px solid #aaaaaa;
+}
+
+#myfooter {
+	padding: 60px;
+}
+
+#wrapper h2 {
+	color: blue;
+	font-size: 1.2em;
+	text-align: center;
+}
